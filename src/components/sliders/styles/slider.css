@@ -1,0 +1,41 @@
+.slider {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 0vh;
+    width: 100%;
+    
+}
+
+h3 {
+    
+    width: 10rem;
+    font-size: 20px;
+    color: white;
+    padding-left: 5rem;
+}
+
+.sc-pNWdM {
+    height: 0px!important;
+    width: 0px!important;
+}
+
+.sc-pNWdM :disabled{
+    height: 0px!important;
+    width: 0px!important;
+}
+
+.sc-bqGGPW {
+    visibility: hidden;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    
+
+    h3 {
+        font-size: 15px;
+        padding-right: 20px;
+    }
+}

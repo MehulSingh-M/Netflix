@@ -1,0 +1,12 @@
+.card {
+    display: flex;
+    color: white;
+    padding: 5px 10px;
+    
+}
+
+
+.cardImage > img {
+    padding-right: 10px;
+
+}
